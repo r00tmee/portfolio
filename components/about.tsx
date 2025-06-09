@@ -21,7 +21,7 @@ export default function About() {
       <p className="mb-3">
         I'm a soon-to-be engineering graduate from <span className="font-medium">Grenoble INP - Ensimag</span>, where I specialized in{" "}
         <span className="font-medium">Information Systems Engineering</span>. Alongside that, I pursued a second degree in{" "}
-        <span className="font-medium">Cybersecurity</span>, which gave me a solid foundation in secure software design and systems architecture.
+        <span className="font-medium">Cybersecurity</span>, which gave me a solid foundation in secure software design.
         <br />
         <br />
         I enjoy building clean, functional web applications using technologies like{" "}
@@ -30,8 +30,7 @@ export default function About() {
       </p>
 
       <p>
-        <span className="italic">Outside of development</span>, I'm curious by nature and enjoy learning about low-level systems, network protocols, and occasionally working on performance-oriented code in C++. 
-        I believe having a background in security makes me a more thoughtful developer: one who understands not just how to build software, but how to make it robust and resilient!
+        <span className="italic">Outside of development</span>, I enjoy football and traveling. I love discovering new places and learning from different cultures and experiences. I'm curious by nature and enjoy understanding how things work, both in tech and beyond.
       </p>
     </motion.section>
 
