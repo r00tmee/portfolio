@@ -2,9 +2,6 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaPython, FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import tripzee from "@/public/tripzee.png";
-import pixel from "@/public/pixel.png";
-import deux from "@/public/2048.png";
 
 export const links = [
   {
@@ -66,21 +63,21 @@ export const projectsData = [
     description:
       "Smart travel planner that generates personalized multi-day trips with hotels, activities and schedules based on your destination, budget and group size.",
     tags: ["React", "TailwindCSS", "Firebase", "Google APIs"],
-    imageUrl: tripzee,
+    imageUrl: "/tripzee.png",
   },
   {
     title: "2048 Game",
     description:
       "An implementation of the 2048 game using Python and PyQt6. Features include grid movement, score tracking, and smooth GUI interactions.",
     tags: ["Python", "PyQt6"],
-    imageUrl: deux,
+    imageUrl: "/2048.png",
   },
   {
     title: "Pixel Art Editor",
     description:
       "A pixel art editor built with PyQt6. Supports canvas export (PNG), keyboard shortcuts, zoom, pan, and mouse-based drawing.",
     tags: ["Python", "PyQt6"],
-    imageUrl: pixel,
+    imageUrl: "/pixel.png",
   },
 ] as const;
 
