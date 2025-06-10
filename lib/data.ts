@@ -35,7 +35,7 @@ export const experiencesData = [
     title: "Cybersecurity Intern",
     location: "EDF DIPDE - Marseille",
     description:
-      "Secured and virtualized Windows workstations for industrial maintenance (PLC). Used QEMU, VirtualBox and VMware ESXi to clone and harden environments. Studied software licensing constraints and automated VM deployment.",
+      "Worked on the virtualization and hardening of Windows workstations used for PLC maintenance. This experience allowed me to apply cybersecurity principles in a critical environment and helped me grow in both technical skills and professional maturity.",
     icon: React.createElement(CgWorkAlt),
     date: "Feb 2025 - Present",
   },
